@@ -7,3 +7,13 @@
 [Вы разведете костер?](light-fire/fire.md)
 
 [Попытаетесь проснуться?](awaken/awaken.md)
+
+[Вернётесь ко сну?](sleep/zefir.md)
+
+[Идёте варить кофе?](awaken/stand-up/coffee/coffee.md)
+
+[Звоните в ЖЭК.](buildings-dep/buildings-dep.md)
+
+[Закрываете глаза.](close-eyes/close-eyes.md)
+
+[Открываете зефирный магазин.](shop/shop.md)

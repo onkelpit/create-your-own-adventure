@@ -1,4 +1,4 @@
-Par un beau matin, vous vous réveillez dans une pièce aux étranges murs en pain d'épice.
+Par un beau matin, vous vous réveillez dans une pièce étrange aux murs en pain d'épice.
 
 Que faites-vous ?
 
@@ -9,3 +9,13 @@ Que faites-vous ?
 [Je panique](panique/frapper-le-mur.md)
 
 [Je mange](manger/faim.md)
+
+[Je me faufile dans un trou](manger/trou/trou.md)
+
+[J'appelle mon prof de musique](telephone/prof_musique.md)
+
+[Je dessine une porte avec un syphon de crème chantilly qui traine](dessine/porte.md)
+
+[Je ne parle pas francais](../english/marshmallow.md)
+
+[J'appelle ma mère immédiatement](appel-maman/appeler-maman.md)
